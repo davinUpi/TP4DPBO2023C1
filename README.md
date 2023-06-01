@@ -34,20 +34,21 @@ merupakan abstract kelas yang bertaggung jawab untuk memodifikasi file .html seh
 merupakan kelas2 yang menjadi back-end sebuah page. Penggunanaan model dan views sesuai kebutuhannya.
 
 ### Doksli
-![2023-06-01 14-11-41](https://github.com/davinUpi/TP4DPBO2023C1/assets/100902319/88773302-7023-4799-9327-d2690b50edf1)
 ###### demo
+![2023-06-01 14-11-41](https://github.com/davinUpi/TP4DPBO2023C1/assets/100902319/88773302-7023-4799-9327-d2690b50edf1)
 
-![Screenshot (911)](https://github.com/davinUpi/TP4DPBO2023C1/assets/100902319/5d70c9b7-a05f-4603-b13f-4071328933bc)
 ###### index
+![Screenshot (911)](https://github.com/davinUpi/TP4DPBO2023C1/assets/100902319/5d70c9b7-a05f-4603-b13f-4071328933bc)
 
 
-![Screenshot (912)](https://github.com/davinUpi/TP4DPBO2023C1/assets/100902319/c2c46216-0051-4f3f-9298-4ea42b3750e5)
 ###### university
+![Screenshot (912)](https://github.com/davinUpi/TP4DPBO2023C1/assets/100902319/c2c46216-0051-4f3f-9298-4ea42b3750e5)
 
 
-![Screenshot (913)](https://github.com/davinUpi/TP4DPBO2023C1/assets/100902319/cf652c6e-44ac-4768-b578-7532d765bcfc)
 ###### create
+![Screenshot (913)](https://github.com/davinUpi/TP4DPBO2023C1/assets/100902319/cf652c6e-44ac-4768-b578-7532d765bcfc)
 
-![Screenshot (914)](https://github.com/davinUpi/TP4DPBO2023C1/assets/100902319/d554a466-0b5c-4909-ad7d-29a11e922754)
 ###### setelah create
+![Screenshot (914)](https://github.com/davinUpi/TP4DPBO2023C1/assets/100902319/d554a466-0b5c-4909-ad7d-29a11e922754)
+
 
